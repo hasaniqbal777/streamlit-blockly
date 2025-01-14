@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="OpenFactCheck Logo" src="https://raw.githubusercontent.com/hasaniqbal777/streamlit-blockly/main/assets/splash.png" height="120" />
+  <img alt="streamlit-blockly Logo" src="https://raw.githubusercontent.com/hasaniqbal777/streamlit-blockly/main/assets/splash.png" height="120" />
   <p align="center">Streamlit Google Blockly Component</p>
     <br>
   </p>

@@ -109,7 +109,7 @@ bump2version patch --new-version $VERSION_BUMP --allow-dirty --verbose
 git add ./VERSION
 git add ./.bumpversion.cfg
 git add ./pyproject.toml
-git add ./src/streamlit-blockly/__init__.py
+git add ./src/streamlit_blockly/__init__.py
 git commit -m "🚀 $MESSAGE"
 git tag $VERSION
 git push origin $BRANCH
